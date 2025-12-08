@@ -1,13 +1,16 @@
 To use the files, you need the following steps in the terminal:
 
 Step 1:
+```
   pip install poke-env
+  
   git clone https://github.com/smogon/pokemon-showdown.git
+  
   cd pokemon-showdown
   npm install
   cp config/config-example.js config/config.js
   node pokemon-showdown start --no-security
-
+```
 
 Step 2: In a new terminal window
 You can run the following after entering their respective folders:
