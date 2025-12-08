@@ -20,4 +20,4 @@ You can run the following after entering their respective folders:
 1. Hierarchical Q: ```python ./run_loop_v11.py random```
 2. Linear SARSA: ```python ./train_sarsa_orig.py```
 3. DQN: ```python ./run_loop.py```
-4. Tabular Q:  ```python poke_train_V3.py```
+4. Tabular Q:  ```python poke_train_V3.py``` (in Implementation 3 folder)
